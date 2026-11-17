@@ -1,0 +1,812 @@
+{
+ "water20": {
+  "file": "/img/items/water20.jpg",
+  "title": "Jerrycan.JPG",
+  "author": "No machine-readable author provided. JohnM assumed (based on copyright claims).",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jerrycan.JPG",
+  "bytes": 57814
+ },
+ "water10": {
+  "file": "/img/items/water10.jpg",
+  "title": "Multi-use water bottle.JPG",
+  "author": "Amraepowell",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Multi-use_water_bottle.JPG",
+  "bytes": 50227
+ },
+ "water9": {
+  "file": "/img/items/water9.jpg",
+  "title": "Water Bottle (51308317077).jpg",
+  "author": "Alabama Extension",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Water_Bottle_(51308317077).jpg",
+  "bytes": 45032
+ },
+ "canned6": {
+  "file": "/img/items/canned6.jpg",
+  "title": "Konservendose-1.jpg",
+  "author": "Rainer Zenz",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Konservendose-1.jpg",
+  "bytes": 56642
+ },
+ "rations": {
+  "file": "/img/items/rations.jpg",
+  "title": "MRE 7862.jpg",
+  "author": "Ashley Pomeroy",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:MRE_7862.jpg",
+  "bytes": 34922
+ },
+ "bars12": {
+  "file": "/img/items/bars12.jpg",
+  "title": "Three protein bars, two cut in half.jpg",
+  "author": "Mx. Granger",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Three_protein_bars,_two_cut_in_half.jpg",
+  "bytes": 51426
+ },
+ "sleeping_bag": {
+  "file": "/img/items/sleeping_bag.jpg",
+  "title": "Israel 2 021 Sleeping Rucksack-Tourist.jpg",
+  "author": "невідомий автор",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Israel_2_021_Sleeping_Rucksack-Tourist.jpg",
+  "bytes": 86064
+ },
+ "first_aid": {
+  "file": "/img/items/first_aid.jpg",
+  "title": "British Red Cross First Aid Kits.jpg",
+  "author": "Owain Davies",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:British_Red_Cross_First_Aid_Kits.jpg",
+  "bytes": 36705
+ },
+ "toilet": {
+  "file": "/img/items/toilet.jpg",
+  "title": "Foldable camping UDD toilet by Separett (Sweden) (2921708370).jpg",
+  "author": "SuSanA Secretariat",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Foldable_camping_UDD_toilet_by_Separett_(Sweden)_(2921708370).jpg",
+  "bytes": 40506
+ },
+ "radio": {
+  "file": "/img/items/radio.jpg",
+  "title": "Eton FR300 emergency crank radio.jpg",
+  "author": "Morn",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Eton_FR300_emergency_crank_radio.jpg",
+  "bytes": 66719
+ },
+ "hat_gloves": {
+  "file": "/img/items/hat_gloves.jpg",
+  "title": "Beanie hat by Polo Ralph Lauren.jpg",
+  "author": "Menswear Market",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Beanie_hat_by_Polo_Ralph_Lauren.jpg",
+  "bytes": 34948
+ },
+ "kilt": {
+  "file": "/img/items/kilt.jpg",
+  "title": "Plaid Kilt Nontraditional.jpg",
+  "author": "невідомий автор",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Plaid_Kilt_Nontraditional.jpg",
+  "bytes": 63715
+ },
+ "big_suitcase": {
+  "file": "/img/items/big_suitcase.jpg",
+  "title": "Suitcase1.jpg",
+  "author": "JEXP",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg",
+  "bytes": 61616
+ },
+ "led_lamp": {
+  "file": "/img/items/led_lamp.jpg",
+  "title": "LED Flashlights.jpg",
+  "author": "Brownse10",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:LED_Flashlights.jpg",
+  "bytes": 103420
+ },
+ "gas_heater": {
+  "file": "/img/items/gas_heater.jpg",
+  "title": "ジェットヒーター120 (16023675276).jpg",
+  "author": "極地狐",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC120_(16023675276).jpg",
+  "bytes": 55461
+ },
+ "thermal_blankets": {
+  "file": "/img/items/thermal_blankets.jpg",
+  "title": "RescueFoil.jpg",
+  "author": "No machine-readable author provided. Firetwister assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:RescueFoil.jpg",
+  "bytes": 59957
+ },
+ "hygiene_kit": {
+  "file": "/img/items/hygiene_kit.jpg",
+  "title": "Kulturbeutel1.jpg",
+  "author": "Peng",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Kulturbeutel1.jpg",
+  "bytes": 64721
+ },
+ "powerbank": {
+  "file": "/img/items/powerbank.jpg",
+  "title": "Powerbank Trust 24677-02.jpg",
+  "author": "ItzANormalFioko",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Powerbank_Trust_24677-02.jpg",
+  "bytes": 45325
+ },
+ "respirators": {
+  "file": "/img/items/respirators.jpg",
+  "title": "Respirator YWSH SH-ZK12 FFP2.jpg",
+  "author": "Michal Josef Špaček",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Respirator_YWSH_SH-ZK12_FFP2.jpg",
+  "bytes": 44129
+ },
+ "candles": {
+  "file": "/img/items/candles.jpg",
+  "title": "Round tealight candles on wooden table.JPG",
+  "author": "Jim Vallianos",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Round_tealight_candles_on_wooden_table.JPG",
+  "bytes": 47498
+ },
+ "headlamp": {
+  "file": "/img/items/headlamp.jpg",
+  "title": "Black Diamond Spot on Half Dome Helmet.JPG",
+  "author": "Eric T Gunther",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Black_Diamond_Spot_on_Half_Dome_Helmet.JPG",
+  "bytes": 27808
+ },
+ "batteries": {
+  "file": "/img/items/batteries.jpg",
+  "title": "AA matchstick-1.jpg",
+  "author": "Lead holder",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:AA_matchstick-1.jpg",
+  "bytes": 60540
+ },
+ "water_filter": {
+  "file": "/img/items/water_filter.jpg",
+  "title": "LifeStraw personal water filter - DPLA - 374dc5584ddc70a738ffbc414260a3bd.jpg",
+  "author": "Vestergaard Frandsen",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:LifeStraw_personal_water_filter_-_DPLA_-_374dc5584ddc70a738ffbc414260a3bd.jpg",
+  "bytes": 17957
+ },
+ "helmet_gloves": {
+  "file": "/img/items/helmet_gloves.jpg",
+  "title": "White Hard hat and grey gloves.jpg",
+  "author": "Peachyeung316",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:White_Hard_hat_and_grey_gloves.jpg",
+  "bytes": 39766
+ },
+ "dynamo_light": {
+  "file": "/img/items/dynamo_light.jpg",
+  "title": "2021-03-30 Hand-crank operated generator (dynamo torch) plus backup.jpg",
+  "author": "Franz van Duns",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2021-03-30_Hand-crank_operated_generator_(dynamo_torch)_plus_backup.jpg",
+  "bytes": 28382
+ },
+ "solar_panel": {
+  "file": "/img/items/solar_panel.jpg",
+  "title": "Portable solar panel.jpg",
+  "author": "Tiia Monto",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Portable_solar_panel.jpg",
+  "bytes": 78094
+ },
+ "thermos": {
+  "file": "/img/items/thermos.jpg",
+  "title": "Thermos.JPG",
+  "author": "Denae Bedard",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Thermos.JPG",
+  "bytes": 59167
+ },
+ "whistle": {
+  "file": "/img/items/whistle.jpg",
+  "title": "Pea Whistle.jpg",
+  "author": "Zephyris at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+  "bytes": 24467
+ },
+ "cards": {
+  "file": "/img/items/cards.jpg",
+  "title": "AcetoFive.JPG",
+  "author": "Ron Maijen",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:AcetoFive.JPG",
+  "bytes": 45289
+ },
+ "fishing_kit": {
+  "file": "/img/items/fishing_kit.jpg",
+  "title": "TackleBoxFortDeSoto.JPG",
+  "author": "350z33 (talk)",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:TackleBoxFortDeSoto.JPG",
+  "bytes": 65373
+ },
+ "machete": {
+  "file": "/img/items/machete.jpg",
+  "title": "Machete Campos Hermanos N°22.jpg",
+  "author": "FernndEspinoza",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Machete_Campos_Hermanos_N%C2%B022.jpg",
+  "bytes": 116034
+ },
+ "flint": {
+  "file": "/img/items/flint.png",
+  "title": "Lighter flint spark trails.png",
+  "author": "AkselA",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lighter_flint_spark_trails.png",
+  "bytes": 88254
+ },
+ "matches": {
+  "file": "/img/items/matches.jpg",
+  "title": "Friction d'une allumette.jpg",
+  "author": "Yann SEGALEN",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Friction_d%27une_allumette.jpg",
+  "bytes": 38458
+ },
+ "tarp": {
+  "file": "/img/items/tarp.jpg",
+  "title": "Tarpaulin fly tent.jpg",
+  "author": "Ryan Bushby(HighInBC)",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tarpaulin_fly_tent.jpg",
+  "bytes": 94558
+ },
+ "flares": {
+  "file": "/img/items/flares.jpg",
+  "title": "Pistol, flare (AM 1946.189-12).jpg",
+  "author": "Kokura Arsenal",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pistol,_flare_(AM_1946.189-12).jpg",
+  "bytes": 35301
+ },
+ "multitool": {
+  "file": "/img/items/multitool.jpg",
+  "title": "Lezyne Carbon 10 collage.jpg",
+  "author": "Lucasbosch",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lezyne_Carbon_10_collage.jpg",
+  "bytes": 36750
+ },
+ "rope": {
+  "file": "/img/items/rope.jpg",
+  "title": "Cordage en chanvre.jpg",
+  "author": "Ji-Elle",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cordage_en_chanvre.jpg",
+  "bytes": 87212
+ },
+ "purif_tabs": {
+  "file": "/img/items/purif_tabs.jpg",
+  "title": "Water purification tablets, military, 1940s.JPG",
+  "author": "KingaNBM",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Water_purification_tablets,_military,_1940s.JPG",
+  "bytes": 31146
+ },
+ "repellent": {
+  "file": "/img/items/repellent.jpg",
+  "title": "Off and Cutter DEET Insect Repellent - Bug Spray (27827388427).jpg",
+  "author": "Tony Webster from Minneapolis, Minnesota, United States",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Off_and_Cutter_DEET_Insect_Repellent_-_Bug_Spray_(27827388427).jpg",
+  "bytes": 39630
+ },
+ "pot": {
+  "file": "/img/items/pot.jpg",
+  "title": "Coffee Pot -- 'Mountain Camp' (2008) by Susan Detwiler Banff, Alberta (CA) September 2019 (49279416217).jpg",
+  "author": "Ron Cogswell from Arlington, Virginia, USA",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Coffee_Pot_--_%27Mountain_Camp%27_(2008)_by_Susan_Detwiler_Banff,_Alberta_(CA)_September_2019_(49279416217).jpg",
+  "bytes": 65004
+ },
+ "mirror": {
+  "file": "/img/items/mirror.jpg",
+  "title": "Signaling Mirror B-1 USAF Spec 41063.jpg",
+  "author": "The Flickr user named signalmirror",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Signaling_Mirror_B-1_USAF_Spec_41063.jpg",
+  "bytes": 113061
+ },
+ "solar_charger": {
+  "file": "/img/items/solar_charger.jpg",
+  "title": "Solar charger-001-front.jpg",
+  "author": "NJR ZA",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Solar_charger-001-front.jpg",
+  "bytes": 69732
+ },
+ "hammock": {
+  "file": "/img/items/hammock.jpg",
+  "title": "Hammock11.jpg",
+  "author": "Wikipediuh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hammock11.jpg",
+  "bytes": 69738
+ },
+ "ukulele": {
+  "file": "/img/items/ukulele.jpg",
+  "title": "17 inch pocket ukulele branded \"ultnice\".jpg",
+  "author": "Zapyon",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:17_inch_pocket_ukulele_branded_%22ultnice%22.jpg",
+  "bytes": 75904
+ },
+ "flamingo": {
+  "file": "/img/items/flamingo.jpg",
+  "title": "DFC 1862 Two colorful inflatable pool floats - a pink flamingo and a green turtle - resting on the sandy shore as gentle waves lap nearby.jpg",
+  "author": "PattayaPatrol",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:DFC_1862_Two_colorful_inflatable_pool_floats_-_a_pink_flamingo_and_a_green_turtle_-_resting_on_the_sandy_shore_as_gentle_waves_lap_nearby.jpg",
+  "bytes": 43447
+ },
+ "mix_greens": {
+  "file": "/img/items/mix_greens.jpg",
+  "title": "Salade mesclun et chèvre chaud sur toasts.jpg",
+  "author": "DocteurCosmos",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Salade_mesclun_et_ch%C3%A8vre_chaud_sur_toasts.jpg",
+  "bytes": 69435
+ },
+ "iceberg": {
+  "file": "/img/items/iceberg.jpg",
+  "title": "Iceberg lettuce (IJssla krop).jpg",
+  "author": "Rasbak 13:13, 20 May 2007 (UTC)",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_(IJssla_krop).jpg",
+  "bytes": 84848
+ },
+ "arugula": {
+  "file": "/img/items/arugula.jpg",
+  "title": "20240510 Arugula parmesan salad Restaurant MeGusto anagoria.jpg",
+  "author": "Anagoria",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:20240510_Arugula_parmesan_salad_Restaurant_MeGusto_anagoria.jpg",
+  "bytes": 83693
+ },
+ "cherry": {
+  "file": "/img/items/cherry.jpg",
+  "title": "Tomates cerises Luc Viatour.jpg",
+  "author": "Luc Viatour",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Tomates_cerises_Luc_Viatour.jpg",
+  "bytes": 22620
+ },
+ "chicken": {
+  "file": "/img/items/chicken.jpg",
+  "title": "Chicken Alfaham Grilled pieces.jpg",
+  "author": "Joegoauk Goa",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chicken_Alfaham_Grilled_pieces.jpg",
+  "bytes": 81687
+ },
+ "caesar_sauce": {
+  "file": "/img/items/caesar_sauce.jpg",
+  "title": "Caesar salad (2).jpg",
+  "author": "Geoff Peters from Vancouver, BC, Canada",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Caesar_salad_(2).jpg",
+  "bytes": 49882
+ },
+ "balsamic": {
+  "file": "/img/items/balsamic.jpg",
+  "title": "Balsamic vinegar (drops).jpg",
+  "author": "Andrea Levers",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Balsamic_vinegar_(drops).jpg",
+  "bytes": 17236
+ },
+ "honey_mustard": {
+  "file": "/img/items/honey_mustard.jpg",
+  "title": "Mustard.JPG",
+  "author": "fuji01",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Mustard.JPG",
+  "bytes": 83952
+ },
+ "feta": {
+  "file": "/img/items/feta.jpg",
+  "title": "Feta Cheese.jpg",
+  "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Feta_Cheese.jpg",
+  "bytes": 38893
+ },
+ "parmesan": {
+  "file": "/img/items/parmesan.jpg",
+  "title": "Parmigiano Reggiano, Italien, Europäische Union.jpg",
+  "author": "Naturpuur",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Parmigiano_Reggiano,_Italien,_Europ%C3%A4ische_Union.jpg",
+  "bytes": 72596
+ },
+ "cucumbers": {
+  "file": "/img/items/cucumbers.jpg",
+  "title": "ARS cucumber.jpg",
+  "author": "Stephen Ausmus, USDA ARS",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+  "bytes": 156454
+ },
+ "croutons": {
+  "file": "/img/items/croutons.jpg",
+  "title": "Croutons on a salad.jpg",
+  "author": "Josh Truelson",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Croutons_on_a_salad.jpg",
+  "bytes": 38655
+ },
+ "walnuts": {
+  "file": "/img/items/walnuts.jpg",
+  "title": "Walnuts - whole and open with halved kernel.jpg",
+  "author": "Ivar Leidus",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg",
+  "bytes": 40619
+ },
+ "olives": {
+  "file": "/img/items/olives.jpg",
+  "title": "Olives in bowl.jpg",
+  "author": "Gphoto",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Olives_in_bowl.jpg",
+  "bytes": 22292
+ },
+ "red_onion": {
+  "file": "/img/items/red_onion.jpg",
+  "title": "Red onions 11.jpg",
+  "author": "Svklimkin",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Red_onions_11.jpg",
+  "bytes": 43347
+ },
+ "avocado": {
+  "file": "/img/items/avocado.jpg",
+  "title": "A half cut avocado in West Bengal, India, photographed on December 3, 2023.jpg",
+  "author": "Billjones94",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:A_half_cut_avocado_in_West_Bengal,_India,_photographed_on_December_3,_2023.jpg",
+  "bytes": 23526
+ },
+ "burrata": {
+  "file": "/img/items/burrata.jpg",
+  "title": "Burrata2.jpg",
+  "author": "Popo le Chien",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Burrata2.jpg",
+  "bytes": 33494
+ },
+ "basil": {
+  "file": "/img/items/basil.jpg",
+  "title": "Ocimum basilicum 8zz.jpg",
+  "author": "Photo by David J. Stang",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_8zz.jpg",
+  "bytes": 58696
+ },
+ "pear": {
+  "file": "/img/items/pear.jpg",
+  "title": "Pears.jpg",
+  "author": "Keith Weller",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+  "bytes": 103473
+ },
+ "dor_blue": {
+  "file": "/img/items/dor_blue.jpg",
+  "title": "Danish Blue cheese.jpg",
+  "author": "Brookie",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Danish_Blue_cheese.jpg",
+  "bytes": 45830
+ },
+ "shrimp": {
+  "file": "/img/items/shrimp.jpg",
+  "title": "Spicy fried King Prawns.jpg",
+  "author": "rovingI",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spicy_fried_King_Prawns.jpg",
+  "bytes": 54961
+ },
+ "bacon": {
+  "file": "/img/items/bacon.png",
+  "title": "Made20bacon.png",
+  "author": "Made20rder555",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Made20bacon.png",
+  "bytes": 120615
+ },
+ "pesto": {
+  "file": "/img/items/pesto.jpg",
+  "title": "BasilPesto.JPG",
+  "author": "Ɱ",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:BasilPesto.JPG",
+  "bytes": 39534
+ },
+ "pomegranate": {
+  "file": "/img/items/pomegranate.jpg",
+  "title": "Pomegranate Juice (2019).jpg",
+  "author": "Augustus Binu : flickr",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg",
+  "bytes": 34644
+ },
+ "flowers": {
+  "file": "/img/items/flowers.jpg",
+  "title": "Starflower 1.jpg",
+  "author": "Yummifruitbat",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Starflower_1.jpg",
+  "bytes": 39170
+ },
+ "down_jacket": {
+  "file": "/img/items/down_jacket.jpg",
+  "title": "Adidas Helionic Down Jacket.jpg",
+  "author": "Adenosine Triphosphate",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Adidas_Helionic_Down_Jacket.jpg",
+  "bytes": 46991
+ },
+ "raincoat": {
+  "file": "/img/items/raincoat.jpg",
+  "title": "David Julian Kirchner (cropped).jpg",
+  "author": "Donni Schoenemond",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:David_Julian_Kirchner_(cropped).jpg",
+  "bytes": 153105
+ },
+ "boots": {
+  "file": "/img/items/boots.jpg",
+  "title": "Braune Wanderstiefel.JPG",
+  "author": "Rosa-Maria Rinkl",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Braune_Wanderstiefel.JPG",
+  "bytes": 46302
+ },
+ "rfid_wallet": {
+  "file": "/img/items/rfid_wallet.jpg",
+  "title": "WalletMpegMan.jpg",
+  "author": "The original uploader was TheArmadillo at English Wikipedia.. Uploaded to Commons by Körnerbrötchen.",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:WalletMpegMan.jpg",
+  "bytes": 74637
+ },
+ "uk_adapter": {
+  "file": "/img/items/uk_adapter.jpg",
+  "title": "H. Brennenstuhl Travel Plug 11, Winschoten (2019) 05.jpg",
+  "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:H._Brennenstuhl_Travel_Plug_11,_Winschoten_(2019)_05.jpg",
+  "bytes": 36786
+ },
+ "fleece": {
+  "file": "/img/items/fleece.jpg",
+  "title": "Antron Fleece.jpg",
+  "author": "iPowahFX Studio",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Antron_Fleece.jpg",
+  "bytes": 40631
+ },
+ "thermal": {
+  "file": "/img/items/thermal.jpg",
+  "title": "Pedek wool underwear (sweater).jpg",
+  "author": "Bevaringstenestene / Museumssenteret i Hordaland",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pedek_wool_underwear_(sweater).jpg",
+  "bytes": 13099
+ },
+ "charger": {
+  "file": "/img/items/charger.jpg",
+  "title": "Multi-USB and charger.jpg",
+  "author": "SD hehua",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Multi-USB_and_charger.jpg",
+  "bytes": 51117
+ },
+ "offline_maps": {
+  "file": "/img/items/offline_maps.jpg",
+  "title": "Wikipedia homepage on a large Android phone, 2015-04-16.jpg",
+  "author": "Sage Ross",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Wikipedia_homepage_on_a_large_Android_phone,_2015-04-16.jpg",
+  "bytes": 37170
+ },
+ "umbrella": {
+  "file": "/img/items/umbrella.jpg",
+  "title": "M0354 000727-005 1.jpg",
+  "author": "MONNIN Jacques",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:M0354_000727-005_1.jpg",
+  "bytes": 15045
+ },
+ "doc_copies": {
+  "file": "/img/items/doc_copies.jpg",
+  "title": "Passports-assorted.jpg",
+  "author": "Normadic at English Wikipedia, User:Quistnix, बिजय पोख्रेल, and the PRC Government (as indicated in the file for the PRC",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Passports-assorted.jpg",
+  "bytes": 664010
+ },
+ "paper_map": {
+  "file": "/img/items/paper_map.jpg",
+  "title": "Suunto compass & map (48995280172).jpg",
+  "author": "Olgierd (Creative Commons licensed only)",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Suunto_compass_%26_map_(48995280172).jpg",
+  "bytes": 72251
+ },
+ "cold_meds": {
+  "file": "/img/items/cold_meds.jpg",
+  "title": "FlattenedRoundPills.jpg",
+  "author": "David Richfield",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:FlattenedRoundPills.jpg",
+  "bytes": 34600
+ },
+ "daypack": {
+  "file": "/img/items/daypack.jpg",
+  "title": "Rucksack1.jpg",
+  "author": "de:Benutzer:sjr",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Rucksack1.jpg",
+  "bytes": 56857
+ },
+ "neck_pillow": {
+  "file": "/img/items/neck_pillow.jpg",
+  "title": "Travel Pillow.jpg",
+  "author": "Takahiro Yamagiwa",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Travel_Pillow.jpg",
+  "bytes": 55780
+ },
+ "earplugs": {
+  "file": "/img/items/earplugs.jpg",
+  "title": "Types of Earplugs.jpg",
+  "author": "Your Best Digs",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Types_of_Earplugs.jpg",
+  "bytes": 22523
+ },
+ "sneakers": {
+  "file": "/img/items/sneakers.jpg",
+  "title": "Air Jordan 1 Banned.jpg",
+  "author": "HI 622",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Air_Jordan_1_Banned.jpg",
+  "bytes": 50177
+ },
+ "thermo_mug": {
+  "file": "/img/items/thermo_mug.jpg",
+  "title": "Mug of Tea.JPG",
+  "author": "Factorylad",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Mug_of_Tea.JPG",
+  "bytes": 26833
+ },
+ "book": {
+  "file": "/img/items/book.jpg",
+  "title": "Blank book on a table.jpg",
+  "author": "Trey Jones",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Blank_book_on_a_table.jpg",
+  "bytes": 66874
+ },
+ "camera": {
+  "file": "/img/items/camera.jpg",
+  "title": "Sony Cybershot DSC W210.jpg",
+  "author": "Joydeep",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sony_Cybershot_DSC_W210.jpg",
+  "bytes": 40717
+ }
+}
