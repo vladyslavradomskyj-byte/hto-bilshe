@@ -1,0 +1,10 @@
+{
+  "name": "Хто більше?",
+  "short_name": "Хто більше?",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14131f",
+  "theme_color": "#1d1b2f",
+  "lang": "uk",
+  "icons": []
+}

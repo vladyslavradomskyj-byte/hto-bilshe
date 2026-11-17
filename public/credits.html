@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Автори фото — Хто більше?</title>
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    main { max-width: 960px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px; }
+    figure { margin: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+    figure img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; display: block; }
+    figcaption { padding: 6px 8px; font-size: .75rem; color: var(--muted); }
+    figcaption b { color: var(--text); display: block; font-size: .8rem; }
+    figcaption a { color: inherit; }
+    .compact .grid { grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 6px; }
+    .compact figcaption a, .compact figcaption span { display: none; }
+  </style>
+</head>
+<body>
+<main>
+  <p><a href="/" style="color:var(--muted)">← До гри</a></p>
+  <h1>Автори фото</h1>
+  <p class="muted">Фото предметів узято з Wikimedia Commons на умовах вільних ліцензій. Натисніть на автора, щоб відкрити сторінку файлу.</p>
+  <div class="grid" id="grid"></div>
+</main>
+<script>
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  if (location.search.includes('compact')) document.body.classList.add('compact');
+  fetch('/img/credits.json', { cache: 'no-store' }).then((r) => r.json()).then((c) => {
+    document.getElementById('grid').innerHTML = Object.entries(c).map(([k, v]) => `
+      <figure><img src="${esc(v.file)}?v=${esc(v.bytes)}" alt="${esc(k)}">
+        <figcaption><b>${esc(k)}</b><a href="${esc(v.source)}" target="_blank" rel="noopener noreferrer">${esc(v.author)}</a> ·
+        ${v.license_url ? `<a href="${esc(v.license_url)}" target="_blank" rel="noopener noreferrer">${esc(v.license)}</a>` : esc(v.license)}</figcaption></figure>`).join('');
+  });
+</script>
+</body>
+</html>
